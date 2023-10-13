@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://blogophonic-hugo.netlify.app/blog/assets/formspree-logo.png" alt="FORMSPREE LOGO" width="550" height="150">
+</p>
+
 # Formspree Message Sender
 
 Welcome to the Formspree Message Sender project! This web application utilizes the Formspree API, providing a simple and efficient way to send messages to any specified email address. It features a straightforward design with HTML, CSS, and JavaScript to enhance user interaction. The seamless integration with Formspree API ensures efficient message handling.
@@ -25,7 +29,7 @@ The following technologies were utilized in the development of this project:
 
 To use this project and send messages using Formspree API:
 
-1. Clone the repository: `git clone https://github.com/yourusername/Formspree-Message-Sender.git`
+1. Clone the repository: `git clone https://github.com/Ricwolf19/API-EMAIL.git`
 2. Configure the Formspree API with your email address.
 3. Customize the frontend if needed.
 4. Run the application and send messages.
